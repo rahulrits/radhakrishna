@@ -1,2 +1,2 @@
 # radhekrishna
-Radha Krishna drawing using python
+Radhe Krishna drawing using python
